@@ -7,9 +7,9 @@
   </style>
   <div class="container">
     <div class="py-5 text-center">
-      <img class="d-block mx-auto mb-4" src="<?php echo esc_url( plugins_url( 'woo_vip_customer/assets/images/WooCommerce-logo.png', '' ) ) ?>" alt="" />
-      <h2>VIP Customer Settings</h2>
-      <p class="lead">You can create/update VIP Customer Settings parameter's here!</p>
+      <img class="d-block mx-auto mb-4" src="<?php echo esc_url( plugins_url( 'woo_premium_customer/assets/images/WooCommerce-logo.png', '' ) ) ?>" alt="" />
+      <h2>Premium Customer Settings</h2>
+      <p class="lead">You can create/update Premium Customer Settings parameter's here!</p>
     </div>
     <div class="row">
       <div class="col-md-8 order-md-1">
