@@ -7,7 +7,7 @@
   </style>
   <div class="container">
     <div class="py-5 text-center">
-      <img class="d-block mx-auto mb-4" src="<?php echo esc_url( plugins_url( 'woo_premium_customer/assets/images/WooCommerce-logo.png', '' ) ) ?>" alt="" />
+      <img class="d-block mx-auto mb-4" src="<?php echo esc_url( plugins_url( 'woo-premium-customers/assets/images/WooCommerce-logo.png', '' ) ) ?>" alt="" />
       <h2>Premium Customer Settings</h2>
       <p class="lead">You can create/update Premium Customer Settings parameter's here!</p>
     </div>
@@ -50,6 +50,7 @@
           </div>
         </form>
         <br>
+        <p><i>* Automattic Inc. owns and oversees the trademarks for Woo™, WooCommerce®, and WooThemes® names, logos, and related icons (aka the “Woo Marks”).</i>
         <span style="display:none;" class="alert alert-success settings-save-succ">Settings saved successfully.</span>
       </div>
 </div>
