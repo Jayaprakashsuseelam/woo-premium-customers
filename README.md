@@ -1,7 +1,7 @@
 # WooCommerce Premium Customers
 WordPress plugin for auto assign premium status to the customers based on WooCommerce orders.  
 
-![alt text](images/WooCommerce-logo.png)
+![alt text](assets/images/WooCommerce-logo.png)
 
 <h5>Technical Requirements: </h5>  
 <p>* WooCommerce plugin should be installed and activated for using WooCommerce Premium Customer's</p>  
