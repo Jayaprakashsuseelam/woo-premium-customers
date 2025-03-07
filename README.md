@@ -10,5 +10,4 @@ WordPress plugin for auto assign premium status to the customers based on WooCom
 <li>WooCommerce</li>  
 <li>MySQL</li>  
 </ul>    
-
 <p><i>* Automattic Inc. owns and oversees the trademarks for Woo™, WooCommerce®, and WooThemes® names, logos, and related icons (aka the “Woo Marks”).</i>
